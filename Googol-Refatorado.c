@@ -219,9 +219,9 @@ void imprimeNumerao(int num[], int tamNum) {
         /*fprintf(f, "%d", num[i]); */
     }
     printf("\n");
-    /*fprintf(f, "\n");
+    /*fprintf(f, "\n"); */
 
-    fclose(f); */
+    /*fclose(f); */
 }
 
 
